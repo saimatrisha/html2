@@ -1,0 +1,38 @@
+h3{
+	color: darkred;
+}
+.head2{
+	background-color: pink;
+	font-size: 45px;
+}
+.c_border{
+	border: 5px solid red;
+}
+#head2{
+	font-size: 39px red;
+	border: 2px dotted darkred;
+	color: darkred;
+}
+.box{
+	width: 30%;
+	height: 100px;
+	background-color: rgb(00, 00, 00);
+	padding: 200px; /* top bottom left right */
+}
+.red{
+	width: 60px;
+	height: 100px;
+	background-color: darkred;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
